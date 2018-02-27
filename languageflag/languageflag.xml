@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content" method="upgrade">
+	<name>plg_content_languageflag</name>
+	<files>
+		<filename plugin="languageflag">languageflag.php</filename>
+	</files>
+</extension>
